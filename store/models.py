@@ -49,6 +49,18 @@ class Order(models.Model):
 	def __str__(self):
 		return str(self.id)
 	# ------------------------------
+	# funcion para el formulario de
+	# Shipping 
+	# ------------------------------
+	@property
+	def shipping(self):
+		shipping = False
+		orderitems = self.orderitem_set.all()
+		for i in orderitems:
+			if i.product.digital == False:
+				shipping = True
+		return shipping	
+	# ------------------------------
 	# funcion para obtener el total 
 	# del carrito
 	# ------------------------------	
