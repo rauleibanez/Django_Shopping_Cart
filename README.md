@@ -2,8 +2,11 @@
 # Welcome!
 
 
-![Ecommerce](Ecommerce.mp4)
-
+![Ecommerce](models.png)
+![Ecommerce](principal.png)
+![Ecommerce](items.png)
+![Ecommerce](cart.png)
+![Ecommerce](checkout.png)
 
 ***
 Welcome to **Django Web Store Project**.
