@@ -1,7 +1,7 @@
 # 🛒 Django E-Commerce Web Store
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-
+https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green
 A fully functional e-commerce web application prototype built with **Django**, designed to explore backend data architecture, dynamic frontend interactions, and full-stack integration. 
 
 This project was developed as a hands-on initiative to deepen core software engineering competencies, bridge backend business logic with user interfaces, and strengthen full-stack development workflows.
@@ -46,4 +46,4 @@ Building this project provided valuable hands-on experience in:
 
 *Freelancer Developer & Technical Lead*
 
-📅 **2024**
+📅 **2023**
